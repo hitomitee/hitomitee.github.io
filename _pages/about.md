@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About me
 I am a fourth-year Bachelor's student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by [Professor Zhizheng Wu](https://drwuz.com/).
-
 
 I am now working on Text-to-Speech Evaluation research. If you would like to have an academic discussion or cooperation, feel free to email me. 
 
@@ -38,9 +38,9 @@ My research interest includes:
 - *2021-22* Academic Performance Scholarship, Class A (Top 1%, 2/344)
 
 # 📖 Educations
-- *2021.09 - 202.04 (now)*, Undergraduate, The Chinese University of Hong Kong, Shenzhen
+- *2021.09 - Present*, Undergraduate, The Chinese University of Hong Kong, Shenzhen
 
 # 💻 Internships/Work
 - *2024.08 - Present*, Shenzhen Research Institute of Big Data, Research Assistant
-- *2024.07 - Present*, Mel Lab, Project Manager | Client: DSO National Laboratories
-- *2023.02 - 2024.03*, CUHK-Shenzhen, Research Assistant | Client: Huawei Technologies Co., Ltd. 
+- *2024.07 - Present*, Mel Lab, Project Manager, Client: DSO National Laboratories
+- *2023.02 - 2024.03*, CUHK-Shenzhen, Research Assistant, Client: Huawei Technologies Co., Ltd. 
