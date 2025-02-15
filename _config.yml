@@ -7,7 +7,7 @@
 
 # Site Settings
 repository               : "hitomitee/hitomitee.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : 
