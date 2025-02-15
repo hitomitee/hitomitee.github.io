@@ -6,14 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+title                    : "Hitomi Tee Jin Ling"
+description              : "Undergraduate Student in The Chinese University of Hong Kong, Shenzhen"
 repository               : "hitomitee/hitomitee.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : 
 
-# SEO Related
-google_site_verification : 
+# # SEO Related
+# google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+# bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+# baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
@@ -21,9 +25,38 @@ author:
   avatar           : "images/avatar.jpg"
   bio              : "Undergraduate Student in The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
+  employer         :
+  pubmed           : 
   googlescholar    : 
   email            : "hitomiteejinling@link.cuhk.edu.cn"
-  github           : https://github.com/hitomitee
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : hitomitee
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : #"rayeren"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : #"https://orcid.org/0000-0002-9160-3848"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -32,15 +65,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -58,15 +88,54 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shenzhen # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -76,3 +145,18 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
