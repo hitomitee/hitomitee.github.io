@@ -31,7 +31,7 @@ My research interests include:
 # 🎖 Honors & Awards
 - *2024-25* Undergraduate Research Awards
 - *2023* Shenzhen Universiade International Scholarship
-- *2020-23*, *2021-22*, *2020-21* Guangdong Government Outstanding International Student Scholarship
+- *2022-23*, *2021-22*, *2020-21* Guangdong Government Outstanding International Student Scholarship
 - *2022-23* Shaw College Master’s List 
 - *2022-23* Academic Performance Scholarship, Class B (Top 3%)
 - *2021-22* Academic Performance Scholarship, Class A (Top 1%)
