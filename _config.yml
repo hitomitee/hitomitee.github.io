@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hitomi Tee's Academic Homepage"
+title                    : "Hitomi Tee - Homepage"
 description              : "Undergraduate Student at The Chinese University of Hong Kong, Shenzhen"
 repository               : "hitomitee/hitomitee.github.io"
 google_scholar_stats_use_cdn : false
