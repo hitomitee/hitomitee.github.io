@@ -25,8 +25,23 @@ My research interests include:
 - Audio Deepfake Detection
 
 # 🔥 News
+- *2026.01*: My first first-author paper of Text-to-Speech Evaluation is accepted by **ICASSP 2026**.
 - *2024.11*: I joined Shenzhen Research Institute of Big Data as a research intern.
 - *2024.08*: I joined Professor Zhizheng Wu's lab as a research assistant.
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/SP-MCQA.png' alt="Overview of SP-MCQA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level](https://arxiv.org/abs/2510.26190) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+**Hitomi Jin Ling Tee**, Chaoren Wang, Zijie Zhang, Zhizheng Wu
+
+- SP-MCQA, a novel subjective evaluation approach to measure the key information accuracy of a synthesized speech.
+- SP-MCQA-Eval, a new open-source newsstyle benchmark dataset that contains uncommon text, involving proper nouns and digits, designed for SP-MCQA.
+</div>
+</div>
 
 # 🎖 Honors & Awards
 - *2024-25* Undergraduate Research Awards
