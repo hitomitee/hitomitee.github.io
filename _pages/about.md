@@ -26,8 +26,8 @@ My research interests include:
 
 # 🔥 News
 - *2026.01*: My first first-author paper of Text-to-Speech Evaluation is accepted by **ICASSP 2026**.
-- *2024.11*: I joined Shenzhen Research Institute of Big Data as a research intern.
-- *2024.08*: I joined Professor Zhizheng Wu's lab as a research assistant.
+- *2024.11*: I join Shenzhen Research Institute of Big Data as a research intern.
+- *2024.08*: I join Professor Zhizheng Wu's lab as a research assistant.
 
 # 📝 Publications 
 
