@@ -56,5 +56,5 @@ My research interests include:
 
 # 💻 Internships & Work
 - *2024.11 - 2024.12*, [Shenzhen Research Institute of Big Data](https://www.sribd.cn/en), Research Intern
-- *2024.08 - Present*, CUHK-Shenzhen, Research Assistant, Client: Huawei Technologies Co., Ltd. 
-- *2024.07 - Present*, [Mel Lab, Project Manager](https://mellab.ai/), Client: DSO National Laboratories
+- *2024.08 - 2025.12*, CUHK-Shenzhen, Research Assistant, Client: Huawei Technologies Co., Ltd. 
+- *2024.07 - 2025.12*, [Mel Lab](https://mellab.ai/), Project Manager, Client: DSO National Laboratories
