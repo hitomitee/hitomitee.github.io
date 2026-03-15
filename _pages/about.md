@@ -41,6 +41,7 @@ My research interests include:
 - SP-MCQA, a novel subjective evaluation approach to measure the key information accuracy of a synthesized speech.
 - SP-MCQA-Eval, a new open-source newsstyle benchmark dataset that contains uncommon text, involving proper nouns and digits, designed for SP-MCQA.
 </div>
+</div>
 
 # 🎖 Honors & Awards
 - *2024-25* Undergraduate Research Awards
