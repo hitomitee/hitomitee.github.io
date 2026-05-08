@@ -39,7 +39,7 @@ My research interests include:
 **Hitomi Jin Ling Tee**, Chaoren Wang, Zijie Zhang, Zhizheng Wu
 
 - SP-MCQA, a novel subjective evaluation approach to measure the key information accuracy of a synthesized speech.
-- SP-MCQA-Eval, a new open-source newsstyle benchmark dataset that contains uncommon text, involving proper nouns and digits, designed for SP-MCQA.
+- SP-MCQA-Eval, a new open-source news-style benchmark dataset that contains uncommon text, involving proper nouns and digits, designed for SP-MCQA.
 </div>
 </div>
 
