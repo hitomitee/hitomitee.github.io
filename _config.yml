@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hitomi Tee - Homepage"
-description              : #"Master's Student at SJTU"
+#description              : "Master's Student at SJTU"
 repository               : "hitomitee/hitomitee.github.io"
 google_scholar_stats_use_cdn : false
 
