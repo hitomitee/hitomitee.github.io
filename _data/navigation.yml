@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Milestones"
-    url: "/#-news"
+    url: "/#-milestones"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-honors-&-awards"
 
   - title: "Educations"
     url: "/#-educations"
@@ -19,4 +19,4 @@ main:
     url: "/#-invited-talks"
 
   - title: "Internships & Work"
-    url: "/#-internships"
+    url: "/#-internships-&-work"
