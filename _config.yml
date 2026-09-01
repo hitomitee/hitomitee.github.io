@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hitomi Tee - Homepage"
-description              : "Master's Student at SJTU"
+description              : #"Master's Student at SJTU"
 repository               : "hitomitee/hitomitee.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,39 @@ author:
   avatar           : "images/avatar2.jpg"
   bio              : "Carpe Diem"
   location         : "Shanghai, China"
+  university       : "SJTU"
+  pubmed           : 
   googlescholar    : 
   email            : "hitomiteejinling@link.cuhk.edu.cn"
+  cv               :  #"/assets/pdf/CV_HTJL.pdf"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "hitomitee"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files

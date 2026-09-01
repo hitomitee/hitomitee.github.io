@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am a master's student at Shanghai Jiao Tong University, supervised by [Prof. Xie Chen](https://chenxie95.github.io/en). Prior to that, I received my B.S. degree from the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), under the supervision of [Prof. Zhizheng Wu](https://drwuz.com/).
+I am a master's student at Shanghai Jiao Tong University, supervised by [Prof. Xie Chen](https://chenxie95.github.io/en). Prior to that, I received my B.S. degree from the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), advised by [Prof. Zhizheng Wu](https://drwuz.com/).
 
 My research interests include: 
 - Multilingual Speech Recognition
@@ -27,6 +27,7 @@ My research interests include:
 
 # 🔥 Milestones
 <!-- - *2026.10*: I join Tencent Hunyuan Speech Team as a research intern. -->
+- *2026.10*: I join Tencent Hunyuan Speech Team as a research intern.
 - *2026.01*: My first paper of Text-to-Speech Evaluation is accepted by **ICASSP 2026**.
 - *2024.11*: I join Shenzhen Research Institute of Big Data as a research intern.
 - *2024.08*: I join Professor Zhizheng Wu's lab as a research assistant.
