@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hitomi Tee - Homepage"
-description              : "Undergraduate Student at The Chinese University of Hong Kong, Shenzhen"
+description              : "Master's Student at SJTU"
 repository               : "hitomitee/hitomitee.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,8 +21,8 @@ google_site_verification :
 author:
   name             : "Hitomi Tee Jin Ling"
   avatar           : "images/avatar2.jpg"
-  bio              : "CUHK-Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "Carpe Diem"
+  location         : "Shanghai, China"
   googlescholar    : 
   email            : "hitomiteejinling@link.cuhk.edu.cn"
   github           : "hitomitee"

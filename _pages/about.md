@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am a fourth-year Bachelor's student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by [Professor Zhizheng Wu](https://drwuz.com/).
-<!-- I am a master student at Shanghai Jiao Tong University, supervised by [Prof. Xie Chen](https://chenxie95.github.io/en). -->
+I am a master's student at Shanghai Jiao Tong University, supervised by [Prof. Xie Chen](https://chenxie95.github.io/en). Prior to that, I received my B.S. degree from the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), under the supervision of [Professor Zhizheng Wu](https://drwuz.com/).
 
 My research interests include: 
 - Multilingual Speech Recognition
@@ -27,7 +26,7 @@ My research interests include:
 - Audio Deepfake Detection
 
 # 🔥 News
-<!-- - *2026.07*: I join Tencent Hunyuan Speech Team as a research intern. -->
+<!-- - *2026.10*: I join Tencent Hunyuan Speech Team as a research intern. -->
 - *2026.01*: My first paper of Text-to-Speech Evaluation is accepted by **ICASSP 2026**.
 - *2024.11*: I join Shenzhen Research Institute of Big Data as a research intern.
 - *2024.08*: I join Professor Zhizheng Wu's lab as a research assistant.
@@ -55,11 +54,11 @@ My research interests include:
 - *2021-22* Academic Performance Scholarship, Class A (Top 1%)
 
 # 📖 Educations
-<!-- - *2026.09 - Present, M.S. in Computer Science, Shanghai Jiao Tong University -->
+- *2026.09 - Present*, M.S. in Computer Science, Shanghai Jiao Tong University
 - *2021.09 - 2025.07*, B.S. in Data Science, The Chinese University of Hong Kong, Shenzhen
 
 # 💻 Internships & Work 
-<!-- - *2026.07 - Present*, [Tencent](https://hunyuan.tencent.com/research?page=1), Hunyuan Speech Team, Research Intern -->
+<!-- - *2026.10 - Present*, [Tencent](https://hunyuan.tencent.com/research?page=1), Hunyuan Speech Team, Research Intern -->
 - *2024.11 - 2024.12*, [Shenzhen Research Institute of Big Data](https://www.sribd.cn/en), Research Intern
 - *2024.08 - 2025.12*, CUHK-Shenzhen, Research Assistant, Advisor: [Prof. Zhizheng Wu](https://drwuz.com/)
 - *2024.07 - 2025.12*, [Mel Lab](https://mellab.ai/), Project Manager, Client: DSO National Laboratories
